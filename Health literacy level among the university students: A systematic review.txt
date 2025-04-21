@@ -1,0 +1,17 @@
+Abstract
+
+Objective: 
+Health literacy refers to an individual's ability to receive, process, and understand fundamental health information and services required to make basic health decisions. The aims of this systematic review were to provide an overview of cross-sectional studies 
+examining the health literacy of university students, and to identify potential factors that may predict health literacy.
+Methods: 
+We conducted a systematic review following PRISMA guidelines (2010-2022). We searched databases (PubMed, Science Direct) using health literacy terms. From 9390 results, two reviewers independently screened titles and abstracts based on criteria. After a full-text review 
+and reaching consensus, 10 studies were included for the final review.
+Results: 
+A global study on university students' health literacy unveils diverse levels and influencing factors. While Greece boasts medium-high literacy and Turkey sees higher rates among females and health-conscious individuals, Jordan, Pakistan, and Nepal reveal
+concerning lows. Determinants such as gender, age, field of study, academic year, socio-economic status, parents' education, physical activity, smoking status, and health condition are associated with students' health literacy levels. Gender is found to be significant 
+in half of the studies, while health, smoking, and drinking show significance in different papers. Academic years and fields of study are determinants in two studies each, while socio-economic status is significant in three papers. Parents' education, physical exercise, 
+and geographical background are found significant in one paper each. 
+Conclusions:
+This review explores health literacy among university students worldwide, finding diverse levels influenced by factors like socioeconomic status, gender, age etc. Some countries show low levels, like Pakistan, while others show medium to high levels, 
+like Greece. It suggests adding health literacy courses to university programs and doing more research to track changes in students' health knowledge over time.
+Keywords:  health literacy, university students, systematic review, factors associated with health literacy. 
